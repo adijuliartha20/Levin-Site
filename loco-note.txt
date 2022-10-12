@@ -1,0 +1,2 @@
+- jadikan satu javascriptnya - caranya ada file develop dan ada file live
+- buat load website cepat
